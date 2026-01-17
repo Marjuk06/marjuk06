@@ -1,4 +1,8 @@
-# 💫 I'm Marjuk Amin
+# I'm Marjuk Amin
+<a href="https://github.com/Marjuk06">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=B026FF&center=false&vCenter=false&width=800&lines=Passionate+Full-Stack+Web+Developer;Graphic+Designer+%26+Tech+Enthusiast;Building+Modern,+Clean+%26+Efficient+Experiences" alt="Typing SVG" />
+</a>
+
 A passionate Full-Stack Web Developer, Graphic Designer, and Tech Enthusiast who loves building modern, clean, and efficient digital experiences.
 
 Email Me 👉 ✉️ **marjukamin06@gmail.com** For Collaboration/Project or Anything Else. 😊😊

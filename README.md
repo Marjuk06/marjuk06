@@ -23,12 +23,9 @@ I’m looking to collaborate on
 
 I’m currently learning
 
-- Assembly Language & Backend Development
+- Backend Development
 - Server deployment, optimization, and security
 
-Fun fact
-
-- I can switch from coding to designing to video editing — all in the same day, and I enjoy every part of it!
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=marjuk06&theme=radical&no-frame=true&no-bg=true&margin-w=4)
